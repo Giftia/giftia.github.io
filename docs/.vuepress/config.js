@@ -34,7 +34,7 @@ module.exports = {
     repoLabel: '查看仓库',
     lastUpdated: '最后更新',
     docsDir: 'docs',
-    docsBranch: 'main',
+    docsBranch: 'master',
     smoothScroll: true,
     sidebar: 'auto',
     displayAllHeaders: true,
