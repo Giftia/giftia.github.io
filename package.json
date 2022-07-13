@@ -1,0 +1,22 @@
+{
+  "name": "website-of-giftina",
+  "description": "Giftina 的个人网站",
+  "version": "2.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giftia/giftia.github.io.git"
+  },
+  "license": "CC-BY-SA-4.0",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-active-header-links": "1.9.7",
+    "@vuepress/plugin-back-to-top": "1.9.7",
+    "@vuepress/plugin-medium-zoom": "1.9.7",
+    "@vuepress/plugin-nprogress": "1.9.7",
+    "vuepress-plugin-pixi-live2d-display": "1.0.1",
+    "vuepress": "1.9.7"
+  }
+}
