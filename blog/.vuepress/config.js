@@ -32,7 +32,7 @@ module.exports = {
     dateFormat: 'YYYY-MM-DD',
     nav: [
       { text: '首页', link: '/' },
-      { text: '日志', link: '/your-diary/' },
+      { text: '日志', link: '/_posts/' },
     ],
     footer: {
       contact: [
@@ -63,8 +63,6 @@ module.exports = {
     layout: 'Pagination',
     hostname: 'https://i.giftia.moe/',
     smoothScroll: true,
-
-    logo: 'https://avatars.githubusercontent.com/u/12429652',
   },
   markdown: {
     lineNumbers: false,
