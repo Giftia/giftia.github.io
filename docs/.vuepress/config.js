@@ -48,4 +48,8 @@ module.exports = {
   markdown: {
     lineNumbers: false,
   },
+  theme: '@vuepress/blog',
+  themeConfig: {
+
+  }
 }
