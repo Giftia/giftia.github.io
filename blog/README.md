@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://avatars.githubusercontent.com/u/12429652?v=4
+heroImage: https://avatars.githubusercontent.com/u/12429652
 heroText: Giftina Chen
 subText: Giftia终端服务部
 tagline: 愿你终有一天能和你重要的人重逢，希望这个世界能留下些我们存在过的痕迹。
